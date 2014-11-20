@@ -1,0 +1,45 @@
+API Login ID,ID Đăng nhập API
+Authorize Only,Chỉ cho người được ủy quyền
+Authorize and Capture,Chứng nhận và lấy
+"Authorize.net","Authorize.net"
+Credit Card Types,Các loại thẻ tín dụng
+Credit Card Verification,Chứng thực thẻ tín dụng
+Debug,Gỡ lỗi
+Email customer,Email khách hàng
+Enabled,Đã bật
+Error in authorizing the payment,Lỗi khi chứng thực thanh toán
+Error in capturing the payment,Lỗi khi lấy thanh toán
+Error in payment gateway,Lỗi tại cổng thanh toán
+Error in refunding the payment,Lỗi khi hoàn trả tiền thanh toán
+Error in refunding the payment.,Lỗi khi hoàn trả tiền thanh toán.
+Error in retrieving the transaction,Lỗi khi lấy thông tin giao dịch
+Fraud order status,Trạng thái đơn hàng lừa đảo
+Gateway request error: %s,Gọi cổng giao dịch bị lỗi: %s
+Invalid amount for authorization,Lượng xác thực không đúng
+Invalid amount for authorization.,Lượng xác thực không đúng.
+Invalid transaction id,ID giao dịch không đúng
+Maximum Order Total,Tổng đơn hàng nhiều nhất
+Merchant Login,Người buôn Đăng nhập
+Merchant's email,Email của người buôn
+Minimum Order Total,Tổng đơn hàng ít nhất
+New order status,Trạng thái đơn hàng mới
+Partner,Bạn làm ăn
+Password,Mật khẩu
+"Payflow Pro","Payflow Pro"
+Payment Action,Hành động thanh toán
+Payment authorization error.,Xác thực thanh toán bị lỗi.
+Payment authorization transaction has been declined.,Chức thực giao dịch thanh toán bị từ chối.
+Payment from Specific countries,Thanh toán từ quốc gia cụ thể
+Payment from applicable countries,Thanh toán từ các quốc gia áp dụng
+"Proxy Host","Proxy Host"
+"Proxy Port","Proxy Port"
+Sort order,Sắp xếp đơn hàng
+TENDER,Người chăm sóc
+Test mode,Kiểu thử
+Title,Tiêu đề
+Transaction key,Chìa khóa thanh toán
+"URL","URL"
+Use Proxy,Dùng Proxy
+User,Người dùng
+VERBOSITY,Dài dòng
+Voided transaction,Giao dịch rỗng

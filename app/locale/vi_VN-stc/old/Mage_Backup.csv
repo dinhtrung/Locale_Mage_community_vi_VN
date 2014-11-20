@@ -1,0 +1,20 @@
+Action,Thực hiện
+All types,Tất cả các loại
+"Backup file ""%s"" can\'t read or write","File sao lưu ""%s"" không thể đọc hoặc ghi"
+"Backup file ""%s"" doesn\'t exist","File sao lưu ""%s"" không tồn tại"
+Backup file doesn't exist,File sao lưu không tồn tại
+Backup file handler don\'t specify,Không chỉ ra file sao lưu
+Backup file path don\'t specify,Không chỉ ra đường dẫn cho file sao lưu
+Backups,Sau lưu
+Cannot read backup file,Không thể đọc file sao lưu
+Create Backup,Khởi tao sao lưu
+DB,CSDL
+Database was successfuly backed up.,CSDL đã được sao lưu thành công.
+Download,Tải về
+"Error write to Backup file ""%s""","Lỗi ghi vào file sao lưu ""%s"""
+"File compressed with Zlib, but this extension is not installed on server","File được nén với đuôi Zlib, nhưng kiểu file không được cài đặt trên máy chủ"
+"Size, byte","Kích thước, byte"
+Time,Thời gian
+Type,Loại
+"Unable to create backup. Please, try again later.",Không thể tạo sao lưu. Vui lòng thử lại sau.
+Wrong order of creation for new backup,Sai thứ tự khởi tạo bản sao lưu mới

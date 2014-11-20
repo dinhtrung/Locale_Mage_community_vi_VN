@@ -1,0 +1,58 @@
+{* This is a comment block
+
+Use vars: {{var var_name}}
+*}<!--@subject Payment Transaction Failed Reminder @-->
+
+<table>
+    <thead>
+        <tr>
+            <th>Giao d&#7883;ch thanh to&aacute;n kh&ocirc;ng th&agrave;nh c&ocirc;ng </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <p>
+                    <b>L&yacute; do </b><br />
+                    {{var reason}}
+                </p>
+                <p>
+                    <b>H&igrave;nh th&#7913;c thanh to&aacute;n </b><br />
+                    {{var checkoutType}}
+                </p>
+                <p>
+                    <b>Kh&aacute;ch h&agrave;ng:</b><br />
+                    <a href="mailto:{{var customerEmail}}">{{var customer}}</a> &lt;{{var customerEmail}}&gt;
+              </p>
+                <p>
+                    <b>S&#7843;n ph&#7849;m </b><br />
+                    {{var items}}
+                </p>
+                <p>
+                    <b>T&#7893;ng:</b><br />
+                    {{var total}}
+              </p>
+                <p>
+                    <b>&#272;&#7883;a ch&#7881; thanh to&aacute;n:</b><br />
+                    {{var billingAddress.format('html')}}
+              </p>
+                <p>
+                    <b>&#272;&#7883;a ch&#7881; v&#7853;n chuy&#7875;n:</b><br />
+                    {{var shippingAddress.format('html')}}
+              </p>
+                <p>
+                    <b>Ph&#432;&#417;ng th&#7913;c v&#7853;n chuy&#7875;n:</b><br />
+                    {{var shippingMethod}}
+              </p>
+                <p>
+                    <b>Ph&#432;&#417;ng th&#7913;c thanh to&aacute;n:</b><br />
+                    {{var paymentMethod}}
+              </p>
+                <p>
+                    <b>Ng&agrave;y &amp; Gi&#7901;:</b><br />
+                    {{var dateAndTime}}
+              </p>
+            </td>
+        </tr>
+    </tbody>
+</table>

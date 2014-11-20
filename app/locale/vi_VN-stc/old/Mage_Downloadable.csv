@@ -1,0 +1,60 @@
+Add New Row,Thêm dòng mới
+An error occurred while saving the file(s).,Lỗi xảy ra khi đang lưu file.
+Availability: In stock.,Tình trạng: còn hàng.
+Availability: Out of stock.,Tình trạng: hết hàng.
+"Can\'t connect to remote host, error: %s","Không thể kết nối tới remote host, lỗi: %s"
+Canceled,Đã hủy
+Date,Ngày
+Default Link Title,Tiêu đề đường dẫn mặc định
+Default Maximum Number of Downloads,Số lượng tải về (download) mặc định
+Default Sample Title,Tiêu đề mẫu mặc định
+Disable Guest Checkout if cart contains downloadable items,Tắt tính năng mua hàng và thanh toán cho khách nếu giỏ hàng bao gồm các sản phẩm có thể tải về (downloadable)
+Downloadable Information,Thông tin có thể tải về
+Downloadable Product,Sản phẩm có thể tải về
+Downloadable Product Options,Tùy chọn sản phẩm có thể tải về
+Downloadable product Section,Section sản phẩm có thể tải về
+Excl. Tax,Không bao gồm thuế
+"File","File"
+File does not exists,File không tồn tại
+From:,Từ:
+Gift Message,Thông báo quà tặng
+"Go to <a href=""%s"">My Downloadable Products</a>","Đến <a href=""%s"">Các sản phẩm có thể tải về của tôi</a>"
+Guest checkout will only work with shareable,Thanh toán cho khách chỉ hoạt động với các sản phẩm có thể chia sẻ
+Incl. Tax,Bao gồm thuế
+Invalid download URL host,URL host tải về không hiệu lực
+Invalid download URL scheme,URL scheme tải về không hiệu lực
+Invalid download link type,Loại đường dẫn tải về không hiệu lực
+Link is expired.,Đường dẫn đã hết hạn.
+Link is not available.,Đường dẫn không sử dụng được.
+Links can be purchased separately,Đường dẫn có thể mua riêng lẻ
+Max. Downloads,Tải về tối đa
+Message:,Thông báo:
+My Downloadable Products,Các sản phẩm có thể tải về của tôi
+Open Links in New Window,Mở đường dẫn trong cửa sổ mới
+Order #,Đơn hàng #
+Order Status to enable Downloads,Trạng thái đặt hàng để bật tải về
+Ordered,Đặt hàng
+Please log in to download your product.,Vui lòng đăng nhập để tải về sản phẩm của bạn.
+Please set resource file and link type,Vui lòng thiết lập loại file và đường dẫn
+Please specify product link(s).,Vui lòng chỉ định đường dẫn sản phẩm.
+Price,Giá
+"Refunded","Refunded"
+Remaining Downloads,Vẫn đang tải về
+Remove item,Bỏ sản phẩm
+Sample,Mẫu
+Shareable,Có thể chia sẻ
+Shipped,Đã được chuyển
+"Sorry, the was an error getting requested content. Please contact store owner.","Rất tiếc, có lỗi xảy ra khi lấy nội dung được yêu cầu. Vui lòng liên hệ với chúng tôi"
+"Sorry, there was an error getting requested content. Please contact store owner.","Rất tiếc, có lỗi xảy ra khi lấy nội dung được yêu cầu. Vui lòng liên hệ với chúng tôi"
+Sort Order,Thứ tự sắp xếp
+Start Download,Bắt đầu tải về
+Status,Trạng thái
+Title,Tiêu đề
+To:,Đến:
+"U","U"
+Unlimited,Không giới hạn
+View Order,Xem đơn hàng
+attachment,Đính kèm
+download,tải về (download)
+inline,cùng dòng
+sample,mẫu

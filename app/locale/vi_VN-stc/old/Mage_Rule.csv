@@ -1,0 +1,33 @@
+ALL,Tất cả
+ANY,Bất kỳ
+Add,Thêm
+Apply,Chấp nhận
+Description: %s,Miêu tả: %s
+Expire at: %s,Hết hạn vào: %s
+FALSE,Sai
+If %s of these conditions are %s:,Nếu %s của điều kiện là %s:
+Invalid discount amount.,Lượng giảm giá không đúng.
+MATCHING ALL,Đúng với tất cả
+MATCHING ANY,Đúng với bất kỳ
+NOT MATCHING ALL,Không đúng với tất cả
+NOT MATCHING ANY,Không đúng với bất kỳ
+Name: %s,Tên: %s
+Open Chooser,Mở người chọn
+Perform following actions,Thực hiện các hành động sau
+Please choose a condition to add...,Chọn điều kiện để thêm...
+Please choose an action to add...,Chọn hành động để thêm...
+Remove,Loại bỏ
+Start at: %s,Bắt đầu lúc : %s
+TRUE,Đúng
+by,bởi
+contains,có chứa
+does not contain,Không chứa
+equals or greater than,bằng hoặc nhiều hơn
+equals or less than,bằng hoặc ít hơn
+greater than,lớn hơn
+is,là
+is not,không là
+is not one of,không là một của
+is one of,là một của
+less than,ít hơn
+to,tới

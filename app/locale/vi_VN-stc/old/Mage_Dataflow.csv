@@ -1,0 +1,30 @@
+"<a href=""%s"" target=""_blank"">Link</a>","<a href=""%s"" target=""_blank"">Đường dẫn</a>"
+"Access denied to destination folder ""%s""","Từ chỗi truy cập đến thư mục đíc ""%s"""
+"Could not load file: ""%s""","Không thể tải file: ""%s"""
+Could not save file: %s,Không thể lưu file: %s
+"Declared adapter %s not found","Declared adapter %s not found"
+"Destination folder ""%s"" does not exist or not access to create","Thư mục đích ""%s"" không tồn tại hoặc không tạo truy xuất"
+"Destination folder ""%s"" is not a directory","Thư mục đích ""%s"" không phải là một thư mục"
+"Destination folder ""%s"" is not a writeable","Thư mục đích ""%s"" không thể ghi"
+Done,Hoàn tất
+"Dry run set, stopping execution","Dry run set, stopping execution"
+"ETA: %s","ETA: %s"
+Error field mapping! Fields list for mapping is not defined,Lỗi ánh xạ trường! Danh sách trường ánh xạ chưa được định nghĩa
+"Error occured during file opening: ""%s""","Lỗi khi đang mở file: ""%s"""
+"File ""%s"" don\'t exist","File ""%s"" không tồn tại"
+Found %d rows,Tìm thấy %d kết quả
+Less than a minute,Trong vòng một phút
+"Loaded successfully: ""%s""","Đã tải thành công: ""%s"""
+Memory Used: %s,Bộ nhớ được sử dụng: %s
+"Method ""%s"" not defined in adapter %s","Phương thức ""%s"" chưa được định nghĩa trong adapter %s"
+"Please declare ""adapter"" and ""method"" node first","Vui lòng khai báo ""adapter"" và ""method"" node trước tiên"
+Processed records: %s,Các kết quả đã được xử lý: %s
+"Saved successfully: ""%s"" [%d byte(s)]","Lưu thành công: ""%s"" [%d byte(s)]"
+"Sheet 1","Sheet 1"
+Skip undefined row,Bỏ qua các kết quả chưa được định nghĩa
+Starting %s :: %s,Bắt đầu %s :: %s
+Total records: %s,Tổng số kết quả: %s
+hour,giờ
+hours,giờ
+minute,phút
+minutes,phút

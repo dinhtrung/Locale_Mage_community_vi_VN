@@ -1,0 +1,17 @@
+Cron (Scheduled Tasks) - all the times are in minutes,Cron (Tác vụ được lập lịch) - Thời gian được tính bằng phút
+Daily,Hằng ngày
+Failure history lifetime,Lỗi thời gian sử dụng lịch sử
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set."
+Generate schedules every,Sinh thời gian biểu mỗi
+History cleanup every,Xóa lịch sử mỗi
+"Invalid callback: %s::%s does not exist","Invalid callback: %s::%s does not exist"
+"Invalid model/method definition, expecting ""model/class::method"".","Invalid model/method definition, expecting ""model/class::method""."
+"Missed if not run within","Missed if not run within"
+Monthly,Hàng tháng
+"No callbacks found","No callbacks found"
+"Schedule ahead for","Schedule ahead for"
+"Success history lifetime","Success history lifetime"
+Too late for the schedule,Quá muộn để lập thời gian biểu
+Unable to save Cron expression,Không thể lưu điều kiện Cron
+Unknown error,Lỗi không xác định
+Weekly,Hàng tuần

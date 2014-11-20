@@ -1,0 +1,43 @@
+--Please Select--,--Lựa chọn--
+<label>Make Check payable to:</label> %s,<label>Tạo séc trả cho:</label> %s
+<label>Make Check payable to</label>: %s,<label>Tạo séc trả cho</label>: %s
+Can not configuration for payment method with code: %s,Không thể cấu hình cách thanh toán mới mã: %s
+Can not retrieve payment info model object.,Không lấy được thông tin thanh toán vật mô hình.
+Can not retrieve payment method instance,Không thể lấy các thanh toán ví dụ
+Can not retrieve payment method model object.,Không lấy được cách thanh toán vật mô hình.
+Card Verification Number,Số xác thực của thẻ
+Check / Money order,Séc / Tiền thanh toán
+Credit Card Number,Số thẻ tín dụng
+Credit Card Number: %s,Số thẻ tín dụng: %s
+Credit Card Number: xxxx-%s,Số thẻ tín dụng: xxxx-%s
+Credit Card Type,Loại thẻ tín dụng
+Credit Card Type: %s,Loại thẻ tín dụng: %s
+Credit Card Types,Loại thẻ tín dụng
+Credit Card Verification,Xác thực thẻ tín dụng
+Enabled,Bật
+Expiration Date,Ngày hết hạn
+Expiration Date: %s/%s,Ngày hết hạn: %s/%s
+Make Check payable to,Tạo séc trả cho
+Make Check payable to: %s,Tạo séc trả cho: %s
+Maximum Order Total,Tổng đơn hàng tối đa
+Minimum Order Total,Tổng đơn hàng tối thiểu
+Month,Tháng
+Name on Card,Tên ghi trên thẻ
+Name on the Card: %s,Tên ghi trên thẻ: %s
+New order status,Trạng thái đơn hàng mới
+Payment Methods,Cách thanh toán
+Payment Methods Section,Mục các cách thanh toán
+Payment from Specific countries,Thanh toán từ nước xác định
+Payment from applicable countries,Thanh toán từ nước áp dụng
+Purchase Order Number,Số đơn hàng mua
+Purchase Order Number: %s,Số đơn hàng mua: %s
+Purchase order,Đơn hàng mua
+Saved CC,Lưu CC
+Send Check to,Gửi séc cho
+Send Check to:,Gửi séc cho:
+Sort order,Sắp xếp đơn hàng
+Title,Tiêu đề
+What is this?,Gì thế?
+Year,Năm
+Zero Subtotal Checkout,Không tổng phụ thanh toán
+

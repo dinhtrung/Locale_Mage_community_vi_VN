@@ -1,0 +1,41 @@
+-- Please select --,-- Hãy lựa chọn --
+Allowed currencies,Các đơn vị tiền tệ được phép
+Base currency,Đơn vị tiền tệ cơ bản
+Cannot retrieve rate from %s,Không thể nhận tỷ lệ từ %s
+Continue &raquo;,Tiếp tục &raquo;
+Country,Quốc gia
+Country Api,Api quốc gia
+Country and Format Type combination should be unique,Tổ hợp quốc gia và loại đơn vị nên là duy nhất
+Currency,Tiền tệ
+Currency Options,Tùy chọn tiền tệ
+Currency Setup,Thiết lập tiền tệ
+Currency Update Warnings,Cảnh báo cập nhật tiền tệ
+Currency will be used for all online payment transactions,Tiền tệ sẽ được sử dụng cho tất cả các giao dịch thanh toán trực tuyến
+Default display currency,Tiền tệ hiển thị mặc định
+Directory,Thư mục
+Enabled,Bật
+Error Email Recipient,Lỗi nhận email
+Error Email Sender,Lỗi người gửi email
+Error Email Template,Lỗi Email Template
+"FATAL ERROR:","FATAL ERROR:"
+Frequency,Tần xuất
+Installed Currencies,Tiền tệ được cài đặt
+Invalid Import Service Specified,Lỗi dịch vụ nhập đã được chỉ định
+Invalid country code: %s,Mã quốc gia không chính xác: %s
+Invalid rates received,Tỷ lệ nhận được không chính xác
+Invalid target currency,Tiền tệ quy đổi không chính xác
+List of countries,Danh sách các quốc gia
+List of regions in specified country,Danh sách vùng trong quốc gia lựa chọn
+Region,Vùng
+Region Api,Api vùng
+Remove space from currency sign,Bỏ khoảng trắng trong ký hiệu tiền tệ
+Scheduled Import Settings,Thiết lập lịch nhập
+Select Your Currency,Lựa chọn đơn vị tiền tệ của bạn
+Service,Dịch vụ
+Start Time,Thời gian bắt đầu
+State/Province,Tỉnh
+Strikeiron Email Update Warnings,Các cảnh báo cập nhật Strikeiron Email
+Unable to initialize import model,Không thể bắt đầu kiểu cập nhật
+"Undefined rate from ""%s-%s""","Tỷ lệ không được định nghĩa ""%s-%s"""
+WARNING:,CẢNH BÁO:
+Your current currency is: %s,Đơn vị tiền tệ hiện bạn đang sử dụng: %s

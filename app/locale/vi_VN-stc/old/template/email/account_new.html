@@ -1,0 +1,52 @@
+﻿<!--@subject Xin chào, {{var customer.name}}! @-->
+
+<style type="text/css">
+body,td { color:#2f2f2f; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif; }
+</style>
+
+<div style="font:11px/1.35em Verdana, Arial, Helvetica, sans-serif;">
+    <table cellspacing="0" cellpadding="0" border="0" width="98%" style="margin-top:10px; font:12px/1.35em Verdana, Arial, Helvetica, sans-serif; margin-bottom:10px;">
+        <tr>
+            <td align="center" valign="top">
+                <!-- [ header starts here] -->
+                <table cellspacing="0" cellpadding="0" border="0" width="650">
+                    <tr>
+                        <td valign="top">
+                            <a href="{{store url=""}}"><img src="{{skin url="images/logo_email.png" _area='frontend'}}" alt="Cho Dien Tu"  style="margin-bottom:10px;" border="0"/></a></td>
+                    </tr>
+                </table>
+
+                <!-- [ middle starts here] -->
+                <table cellspacing="0" cellpadding="0" border="0" width="650">
+                    <tr>
+                        <td valign="top">
+                             <h1 style="font-size:20px; font-weight:normal; line-height:22px; margin:10 0 11px 0;"">Xin ch&agrave;o {{var customer.name}},</h1>
+                            Ch&agrave;o m&#7915;ng b&#7841;n &#273;&#7871;n v&#7899;i   <a href="http://www.cungmua.eu/" style="color:#1E7EC8;">cungmua.eu</a> . B&#7841;n v&#7915;a &#273;&#259;ng k&yacute; t&agrave;i kho&#7843;n v&#7899;i c&aacute;c th&ocirc;ng tin d&#432;&#7899;i &#273;&acirc;y</p>
+                            <p style="border:1px solid #BEBCB7; padding:13px 18px; background:#F8F7F5; ">
+                                Th&ocirc;ng tin v&#7873; t&agrave;i kho&#7843;n:<br/>
+                                E-mail: {{var customer.email}}<br/>
+                                M&#7853;t kh&#7849;u: {{var customer.password}}
+                      <p>&#272;&#7875; &#273;&#259;ng nh&#7853;p, b&#7841;n c&oacute; th&#7875; truy c&#7853;p v&agrave;o <a href="{{store url=""}}" style="color:#1E7EC8;">cungmua.eu</a>  click v&agrave;o <a href="{{store url="customer/account/"}}" style="color:#1E7EC8;">&#272;&#259;ng nh&#7853;p</a> ho&#7863;c <a href="{{store url="customer/account/"}}" style="color:#1E7EC8;">T&agrave;i kho&#7843;n c&#7911;a t&ocirc;i</a> &#7903; ph&#7847;n g&oacute;c tr&ecirc;n c&#7911;a trang web v&agrave; s&#7917; d&#7909;ng t&agrave;i kho&#7843;n b&#7841;n v&#7915;a kh&#7903;i t&#7841;o &#273;&#7875; &#273;&#259;ng nh&#7853;p v&agrave;o website.
+                          <p>Sau khi &#273;&#259;ng nh&#7853;p v&agrave;o website, b&#7841;n c&oacute; th&#7875;:</p>
+
+                      <ul>
+                                <li>Mua h&agrave;ng v&agrave; thanh to&aacute;n nhanh h&#417;n</li>
+                        <li>Ki&#7875;m tra tr&#7841;ng th&aacute;i &#273;&#417;n h&agrave;ng c&#7911;a b&#7841;n.</li>
+                                <li>Xem c&aacute;c s&#7843;n ph&#7849;m &#273;&atilde; t&#7915;ng mua tr&ecirc;n website</li>
+                                <li> Thay &#273;&#7893;i c&aacute;c th&ocirc;ng tin v&#7873; t&agrave;i kho&#7843;n</li>
+                                <li>Thay &#273;&#7893;i m&#7853;t kh&#7849;u</li>
+                                <li>Mua h&agrave;ng cho b&#7841;n b&egrave; v&agrave; ng&#432;&#7901;i th&acirc;n (Chuy&#7875;n &#273;&#7871;n &#273;&#7883;a ch&#7881; kh&aacute;c khi mua h&agrave;ng)</li>
+                          </ul>
+
+                            <p>N&#7871;u b&#7841;n c&oacute; th&#7855;c mắc hay b&#7845;t c&#7913; y&ecirc;u c&#7847;u n&agrave;o, xin vui l&ograve;ng g&#7885;i &#273;&#7871;n s&#7889;   {{config path='general/store_information/phone'}}   ho&#7863;c g&#7917;i email t&#7899;i  <a href="mailto:{{config path='trans_email/ident_support/email'}}" style="color:#1E7EC8;">{{config path='trans_email/ident_support/email'}}</a>. Ch&uacute;ng t&ocirc;i r&#7845;t vui l&ograve;ng &#273;&#432;&#7907;c gi&#7843;i &#273;&aacute;p m&#7885;i th&#7855;c m&#7855;c c&#7911;a qu&yacute; kh&aacute;ch h&agrave;ng.</p>
+                            <p style="color:#000;font-weight: bold;">Tr&acirc;n tr&#7885;ng c&#7843;m &#417;n!</p>
+
+
+                      </td>
+                    </tr>
+                </table>
+
+            </td>
+        </tr>
+    </table>
+</div>

@@ -1,0 +1,38 @@
+* Required Fields,* Trường bắt buộc
+Add,Thêm
+Add Gift Message,Thêm thông báo quà tặng
+Allow Gift Messages for Order Items,Cho phép thông báo quà tặng cho tất cả các sản phẩm đặt hàng
+Allow Gift Messages on Order Level,Cho phép thông báo quà tặng trên cấp order
+Are you sure?,Bạn có chắc?
+Cancel,Hủy
+Check this checkbox if you want to add gift messages to your items.,Đánh dấu chọn nếu bạn muốn thêm thông báo quà tặng vào sản phẩm của bạn.
+Check this checkbox if you want to add gift messages.,Đánh dấu chọn nếu bạn muốn thêm thông báo quà tặng.
+Close,Đóng
+Do you have any gift items in your order?,Bạn có sản phẩm quà tặng nào trong đơn hàng của bạn?
+Edit,Chỉnh sửa
+Edit Gift Message,Chỉnh sửa thông báo quà tặng
+Enter a gift message for each item in your order.,Nhập thông báo quà tặng cho mỗi sản phẩm trong giỏ hàng của bạn.
+Enter a gift message for entire order.,Nhập một thông báo cho toàn bộ các đơn hàng.
+Enter a gift message for this address.,Nhập thông báo quà tặng cho địa chỉ này.
+Error while saving gift message,Lỗi khi lưu thông báo quà tặng
+From,Từ
+Gift Message,Thông báo quà tặng
+Gift Messages,Thông báo quà tặng
+Gift message has been successfully saved,Thông báo quà tặng đã được lưu
+Item %d of %d,Sản phẩm %d của %d
+Message,Thông báo
+No,Không
+Remove,Bỏ
+Save,Lưu
+Save Gift Message,Lưu thông báo quà tặng
+To,Đến
+"Unknown entity type","Unknown entity type"
+Use config,Sử dụng cấu hình
+Yes,Có
+You can leave a box blank if you don\'t wish to add a gift message for the item.,Bạn có thể để trống nếu bạn không muốn thêm thông báo quà tặng vào cho sản phẩm này.
+You can leave a box blank if you don\'t wish to add a gift message for this address.,Bạn có thể bỏ trống nếu bạn không muốn thêm thông báo quà tặng cho địa chỉ này.
+You can leave a box blank if you don\'t wish to add a gift message for whole order.,Bạn có thể bỏ trống nếu bạn không muốn thêm thông báo quà tặng cho toàn bộ đơn hàng này.
+Your gift message has been successfully removed,Thông báo quà tặng của bạn đã được xóa bỏ
+Your gift message has been successfully saved,Thông báo quà tặng của bạn đã được lưu
+Your gift message successfully removed,Thông báo quà tặng của bạn đã được bỏ
+Your gift message successfully saved,Thông báo quà tặng của bạn đã được lưu

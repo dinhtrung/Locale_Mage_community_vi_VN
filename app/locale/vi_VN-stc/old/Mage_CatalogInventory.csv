@@ -1,0 +1,40 @@
+%s is not correct comparsion method.,%s phương thức không chính xác.
+"<strong>Please note</strong>, that these Settings are applicable to cart line Items, not the whole Cart.","<strong>Chú ý</strong>, Những thiết lập này chỉ phù hợp cho sản phẩm trên dòng trong giỏ hàng, không áp dụng cho toàn bộ giỏ hàng."
+Allow Qty Below 0,Số lượng cho phép dưới 0
+Allow Qty Below 0 and Notify Customer,Số lượng cho phép dưới 0 và thông báo cho khách hàng
+"Backorders","Backorders"
+By Fixed value,Bằng giá trị được cố định
+By Percentage,Bằng phần trăm
+Can not specify product identifier for order item,Không thể xác định sản phẩm cho đặt hàng
+"Catalog Inventory","Catalog Inventory"
+Decrease Stock When Order is Placed,Giảm lưu kho khi đơn hàng được đặt
+"Inventory","Inventory"
+"Inventory API","Inventory API"
+"Inventory Section","Inventory Section"
+Manage Stock,Quản lý lưu kho
+Maximum Qty Allowed in Shopping Cart,Số sản phẩm tối đa được phép trong giỏ hàng
+Minimum Qty Allowed in Shopping Cart,Số sản phẩm tối thiểu được phép trong giỏ hàng
+"No Backorders","No Backorders"
+Notify for Quantity Below,Thông báo khi số lượng dưới
+Product Stock Options,Các tùy chọn lưu kho sản phẩm
+Qty for Items' Status to become Out of Stock,Số lượng sản phẩm để trạng thái lưu kho chuyển thành hết hàng
+Retrieve stock data,Nhận về dữ liệu lưu kho
+Retrieve stock data by product ids,Nhận về dữ liệu lưu kho bằng ID sản phẩm
+Rule price,Luật giá
+Set Items' Status to be In Stock When Order is Cancelled,Thiết lập trạng thái sản phẩm được lưu kho khi đơn hàng được hủy
+Some of the products are currently out of stock,Một số sản phẩm hiện tại đang hết hàng
+Some of the products can not be ordered in requested quantity,Một số sản phẩm không thẻ đặt hàng được với số lượng yêu cầu
+Some of the products cannot be ordered in the requested quantity,Một số sản phẩm không thẻ đặt hàng được với số lượng yêu cầu
+Stock Options,Các tùy chọn lưu kho
+Stock item for Product in option is not valid,Sản phẩm lưu kho trong tùy chọn sản phẩm không hợp lệ
+Stock item for Product is not valid,Số lượng sản phẩm lưu kho không hợp lệ
+The maximum quantity allowed for purchase is %s.,Số lượng tối đa được phép mua là %s.
+The minimum quantity allowed for purchase is %s.,Số lượng tối thiểu có thể mua là %s
+"The requested quantity for ""%s"" is not available.","Số lượng yêu cầu ""%s"" không thể đáp ứng."
+The requested quantity is not available.,Số lượng yêu cầu không thể đáp ứng.
+This product is currently out of stock.,Sản phẩm này hiện tại đang hết hàng.
+To Fixed Value,Đến giá trị đã được cố định
+To Percentage,Đến phần trăm
+Update,Cập nhật
+Update product stock data,Cập nhật dữ liệu lưu kho sản phẩm
+Update the Product,Cập nhật sản phẩm

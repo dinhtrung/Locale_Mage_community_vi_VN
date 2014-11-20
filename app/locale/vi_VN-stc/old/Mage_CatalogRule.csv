@@ -1,0 +1,66 @@
+"Actions","Actions"
+Active,Kích hoạt
+Add New Rule,Thêm luật (rule) mới
+Apply Rules,Áp dụng các luật
+Attribute Set,Thiết đặt thuộc tính (Attribute Set)
+"Catalog","Catalog"
+Catalog Price Rule,Luật giá Catalog
+Catalog Price Rules,Các luật giá Catalog
+Category,Danh mục
+Comments History,Lịch sử bình luận
+Conditions,Các điều kiện
+Conditions (leave blank for all products),Các điều kiện (để trống cho tất cả các sản phẩm)
+Conditions Combination,Tổ hợp các điều kiện
+"Credit Memos","Credit Memos"
+Customer Groups,Nhóm khách hàng
+Customer is new buyer: %s,Khách hàng là người mua mới: %s
+Customer registered: %s,Khách hàng đã đăng ký: %s
+Date Expire,Ngày hết hạn
+Date From,Ngày từ
+Date Start,Ngày bắt đầu
+Date To,Ngày đến
+Delete Rule,Xóa luật
+Description,Mô tả
+Description: %s,Mô tả: %s
+Edit Rule,Chỉnh sửa luật
+Edit Rule '%s',Chỉnh sửa luật '%s'
+Expire at: %s,Hết hạn vào: %s
+From Date,Đến Ngày
+General Information,Thông tin chung
+Gift Messages,Thông báo quà tặng
+"ID","ID"
+Inactive,Không kích hoạt
+Invoices,Các hóa đơn
+NOT LOGGED IN,KHÔNG ĐĂNG NHẬP
+Name: %s,Tên: %s
+New Rule,Luật mới
+No,Ko
+Options,Các tùy chọn
+"Order Credit Memos","Order Credit Memos"
+Order Gift Messages,Thông báo quà tặng đơn hàng
+Order History,Lịch sử đặt hàng
+Order Invoices,Hóa đơn đặt hàng
+Order Shipments,Các vận chuyển đặt hàng
+Priority,Ưu tiên
+Product Attribute,Thuộc tính sản phẩm
+"Promotions","Promotions"
+Rule Information,Thông tin luật
+Rule Name,Tên luật
+Rule was successfully deleted,Luật đã được xóa
+Rule was successfully saved,Luật đã được lưu
+Rules were successfully applied,Luật đã được áp dụng
+Save Rule,Lưu luật
+Save and Apply,Lưu và áp dụng
+Shipments,Các vận chuyển
+Start at: %s,Bắt đầu vào: %s
+Status,Các trạng thái
+Stop further rules processing,Dừng luật đang được thi hành
+The page you are trying to save no longer exists,Trang bạn đang lưu không còn tồn tại
+"There are rules that have been changed but not applied. Please, click Apply Rules in order to see immediate effect in catalog.",Những luật này đã thay đổi nhưng chưa được áp dung. Vui lòng nhấn Áp dụng luật (Apply Rules) d
+This rule no longer exists,để xem xự thay đổi. Luật này không còn tồn tại
+To Date,Đến ngày
+Unable to apply rules,Không thể áp dụng luật
+Unable to find a page to delete,Không thể tìm trang để xóa
+Update product's %s %s: %s,Cập nhật sản phẩm %s %s: %s
+"Websites","Websites"
+Yes,Có

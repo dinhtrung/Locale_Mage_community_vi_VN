@@ -1,0 +1,136 @@
+ Copy, Copy
+Action,Hành động
+Add New Template,Thêm mẫu mới
+Add to Queue,Thêm vào mục chờ đợi
+Are you sure that you want to delete this template?,Bạn có chắc chắn xóa mẫu này?
+Are you sure that you want to strip all tags?,Bạn có chắc chắn bỏ tất cả các tags?
+Back,Quay lại
+Cancel,Hủy bỏ
+"Cancelled","Đã hủy bỏ"
+Cannot delete subscriber,Không thể xóa người đăng ký
+Cannot delete template,Không thể xóa mẫu
+Cannot mark as received subscriber,Không thể đánh dấu như là người đăng ký nhận
+Cannot save your subscription: %s,Không thể lưu đăng ký của bạn: %s
+Confirmation Email Sender,Xác nhận người gửi Email
+Confirmation Email Template,Xác nhận mẫu Email
+Confirmation request has been sent,Yêu cầu xác nhận đã gửi
+Convert to Plain Text,Chuyển sang dạng Plain Text
+Create Newsletter Template,Tạo mẫu thư thông báo
+Customer,Khách hàng
+Customer Firstname,Tên của khách hàng
+Customer Lastname,Họ của khách hàng
+Date Added,Ngày đã thêm
+Date Updated,Ngày đã cập nhật
+Delete Selected Problems,Xóa những vấn đề đã chọn
+Delete Template,Xóa mẫu
+Do you really want to cancel the queue?,Bạn có chắc chắn hủy xếp hàng
+Duplicate of template code,Mã của mẫu bị trùng
+Edit Newsletter,Sửa thư thông báo
+Edit Newsletter Template,Sửa mẫu thư thông báo
+Edit Queue,Sửa xếp hàng
+Edit Template,Sửa mẫu
+Email,Email
+Error Code,Mã lỗi
+Error Text,Chữ lỗi
+Form was filled incorrectly,Mẫu điền không đúng
+Guest,Khách
+ID,ID
+Invalid queue selected,Lựa chọn xếp hàng không đúng
+Invalid subscriber ID,ID người đăng ký nhận không đúng
+Invalid subscription ID,ID đăng ký nhận không đúng
+Invalid subscription confirmation code,Mã xác nhận đăng ký không đúng
+Message,Tin nhắn
+Need to Confirm,Cần xác nhận
+New Newsletter Template,Mẫu thư thông báo
+New Template,Mẫu mới
+Newsletter,Thông báo
+Newsletter Message Preview,Xem thử tin thông báo
+Newsletter Problem Reports,Thông báo tin lỗi
+Newsletter Queue,Thông báo xếp hàng
+Newsletter Section,Mục thông báo
+Newsletter Subscribers,Những người nhận thông báo
+"Newsletter Subscription", "Newsletter"
+"Newsletter Subscriptions", "Newsletter"
+"Newsletter Sign-up:","Đăng ký nhận tin"
+Newsletter Templates,Các mẫu thông báo
+Newsletter subscription confirmation,Xác nhận đăng ký nhận thông báo
+"Newsletter subscription success","Đăng ký nhận thông báo thành công"
+Newsletter unsubscription success,Bỏ đăng ký nhận thông báo thành công
+No Templates Found,Không tìm thấy mẫu nào
+No problems found,Không tìm thấy lỗi
+No subscribers selected,Không có người nhận nào được chọn
+Not Sent,Chưa gửi
+Not activated,Chưa kích hoạt
+Pause,Tạm dừng
+"Paused","Đã tạm dừng"
+Please enter a valid email address,Vui lòng nhập địa chỉ email có thực
+"Please enter a valid email address.","Vui lòng nhập địa chỉ email có thực."
+Please enter new template name,Vui lòng nhập tên mẫu mới
+Please select subscriber(s),Vui lòng lựa chọn người nhận
+Preview,Xem thử
+Preview Template,Xem thử mẫu
+"Processed","Đã thực hiện"
+Queue Date Start,Xếp hàng đến ngày bắt đầu
+Queue Finish,Xếp hàng kết thúc
+Queue Information,Thông tin xếp hàng
+Queue Newsletter,Thông báo xếp hàng
+Queue Start,Xếp hàng bắt đầu
+Queue Subject,Chủ đề xếp hàng
+Recipients,Người nhận
+Reset,Làm lại
+Resume,Lại tiếp tục
+Return Html Version,Quay lại phiên bản Html
+Save And Resume,Lưu và lại tiếp tục
+Save As,Lưu ở dạng
+Save Newsletter,Lưu thông báo
+Save Template,Lưu mẫu
+"Selected problem subscribers successfully unsubscribed","Đã lựa chọn người nhận có vấn đề thành công"
+Selected problems successfully deleted,Vấn đề đã chọn đã xóa thành công
+Sender,Người gửi
+Sender Email,Email người gửi
+Sender Name,Tên người gửi
+"Sending","Đang gửi"
+Sending Options,Các lựa chọn để gửi
+"Sent","Đã gửi"
+"Set Return-Path","Đặt đường quay lại"
+"Sign up for our newsletter from HALOBUY","Đăng ký nhận tin từ HALOBUY"
+Start,Bắt đầu
+Status,Trạng thái
+Store,Cửa hàng
+Store View,Xem cửa hàng
+Subject,Chủ đề
+"Subscribe","Đăng ký nhận"
+"Subscribed","Đã đăng ký"
+Subscriber,Người đăng ký
+Subscribers,Người đăng ký
+Subscribers From,Người đăng ký từ
+Subscription Options,Các lựa chọn đăng ký
+Success Email Sender,Email người gửi thành công
+Success Email Template,Mẫu Email thành công
+Template Content,Nội dung mẫu
+Template Information,Thông tin mẫu
+Template Name,Tên mẫu
+Template Subject,Mẫu chủ đề
+Template Type,Loại mẫu
+Thank you for your subscription,Cảm ơn bạn đã đăng ký
+"Thank you for your subscription.","Cảm ơn bạn đã đăng ký."
+"The subscription was successfully saved","Đăng ký lưu thành công"
+There was a problem with the subscription,Có vấn đề với sự đăng ký
+There was a problem with the subscription: %s,Có vấn đề với sự đăng ký: %s
+There was a problem with the un-subscription.,Có vấn để với sự bỏ đăng ký.
+There was an error while saving your subscription,Có vấn đề khi lưu đăng ký của bạn
+"This email address is already assigned to another user.","Địa chỉ email này đã được giao cho người dùng khác."
+Toggle Editor,Người chỉnh chốt
+Type,Loại
+Unsubscribe,Bỏ đăng ký
+Unsubscribe Selected,Bỏ đăng ký đã chọn
+"Unsubscribed","Đã bỏ đăng ký"
+Unsubscription Email Sender,Bỏ đăng ký người gửi email
+Unsubscription Email Template,Bỏ đăng ký mẫu Email
+View Newsletter,Xem thông báo
+Website,Website
+You have been successfully unsubscribed.,Bạn đã bỏ đăng ký thành công.
+"Your subscription was successfully confirmed","Đăng ký của bạn đã xác thực thành công."
+Submit,Gửi
+"General Subscription","Nhận thư cập nhật"
+"The subscription has been saved.","Đăng ký nhận thư cập nhật thàng công."

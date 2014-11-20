@@ -1,0 +1,22 @@
+//Được dịch bởi Nguyễn Thái Sơn, STC
+//Email: sonntstc@gmail.com. Website: http://sonntstc.vze.com
+//Mã số phát triển: STCMeCOM1 (STC Magento eCommerce version 2012.1.0) dựa trên phiên bản Magento Community 1.7
+
+"Access denied.","Truy cập bị từ chối"
+"Can not find webservice adapter.","Không tìm thấy bộ chuyển đổi dịch vụ web."
+"Client Session Timeout (sec.)","Thời gian chờ phiên máy khách (giây)"
+"Default Response Charset","Bộ ký tự đáp ứng mặc định"
+"Email","Thư điện tử"
+"Enable WSDL Cache","Kích hoạt bộ nhớ đệm WSDL"
+"General Settings","Các thiết lập chung"
+"Invalid webservice adapter specified.","Bộ chuyển đổi dịch vụ web được xác định không hợp lệ."
+"Invalid webservice handler specified.","Bộ xử lý dịch vụ web được xác định không hợp lệ."
+"Magento Core API","API lõi STCMeCOM"
+"Magento Core API Section","Khu vực API lõi STCMeCOM"
+"SOAP/XML-RPC - Roles","SOAP/XML-RPC - Các vai trò"
+"SOAP/XML-RPC - Users","SOAP/XML-RPC - Các thành viên"
+"Unable to login.","Không thể đăng nhập."
+"User Name","Tên đăng nhập"
+"WS-I Compliance","Tuân thủ WS-I"
+"Web Services","Các dịch vụ web"
+"Your account has been deactivated.","Tài khoản của Quý khách đã ngừng hoạt động."

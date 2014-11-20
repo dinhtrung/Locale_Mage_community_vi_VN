@@ -1,0 +1,90 @@
+"Actions","Actions"
+Active,Kích hoạt
+Add New Rule,Thêm luật (Rule)
+Apply,Áp dụng
+Apply the rule only if the following conditions are met (leave blank for all products),Chỉ áp dụng luật này nếu các điều kiện sau phù hợp (bỏ trống cho tất cả các sản phẩm)
+Apply the rule only to cart items matching the following conditions (leave blank for all items),Chỉ áp dụng luật này cho sản phẩm trong giỏ hàng phù hợp với các điều kiện (bỏ trống cho tất cả các sản phẩm)
+Apply the rule to cart items matching the following conditions,Áp dụng luật cho sản phẩm trong giỏ hàng nếu các điều kiện sau phù hợp
+Apply to,Áp dụng cho
+Buy X get Y free (discount amount is Y),Mua X đển nhận Y miễn phí (số lượng giảm giá là Y)
+By Fixed Amount,bằng lượng cố định
+By Fixed value,bằng giá trị cố định
+By Percentage,Bằng phần trăm
+By Percentage of the original price,Bằng phần trăm của giá gốc
+Cart Attribute,Thuộc tính giỏ hàng
+"Catalog","Catalog"
+Conditions,Điều kiện
+Conditions combination,Tổ hợp các điều kiện
+"Coupon Code","Coupon Code"
+"Coupon code","Coupon code"
+Customer Groups,Các nhóm khách hàng
+Customer is new buyer: %s,Khách hàng là người mua mới: %s
+Customer registered: %s,Khách hàng đã đăng ký: %s
+Date Expire,Ngày hết hạn
+Date Start,Ngày bắt đầu
+Delete Rule,Xóa luật
+Description,Mô tả
+Description: %s,Mô tả: %s
+"Discount Qty Step (Buy X)","Discount Qty Step (Buy X)"
+Discount amount,Lượng giảm giá
+Edit Rule,Chỉnh sửa luật
+Edit Rule '%s',Chỉnh sửa luật '%s'
+Expire at: %s,Hết hạn vào: %s
+Fixed amount discount,Số lượng giảm giá cố định
+Fixed amount discount for whole cart,Số lượng giảm giá cố định cho toàn bộ giỏ hàng
+For matching items only,Chỉ dành cho sản phẩm phù hợp
+For shipment with matching items,Dành cho vẩn chuyển phù hợp với sản phẩm
+Free shipping,Vận chuyển miễn phí
+From Date,Từ ngày
+General Information,Thông tin chung
+"ID","ID"
+Inactive,Không kích hoạt
+Maximum Qty Discount is Applied to,Số lượng giảm giá tối đa áp dụng cho
+NOT LOGGED IN,Chưa đăng nhập
+Name: %s,Tên: %s
+New Rule,Luật mới
+No,Không
+Payment Method,Phương thức vận chuyển
+Percent of product price discount,Phần trăm giảm giá của giá sản phẩm
+Price in cart,Giá trong giỏ hàng
+Priority,Khoảng thời gian
+Product attribute combination,Tổ hợp thuộc tính sản phảm
+"Products subselection","Products subselection"
+Promotions,Khuyến mại (Promotion)
+"Public In RSS Feed","Public In RSS Feed"
+Quantity in cart,Số lượng trong giỏ hàng
+Row total in cart,Tổng số dòng trong sản phẩm
+Rule Information,Thông tin luật
+Rule Name,Tên luật
+Rule was successfully deleted,Luật đã được xóa
+Rule was successfully saved,Luật đã được lưu
+Save Rule,Lưu luật
+Shipping Country,Quốc gia vận chuyển
+Shipping Method,Phương thức vân chuyển
+"Shipping Postcode","Shipping Postcode"
+Shipping Region,Vùng vận chuyển
+Shipping State/Province,Tỉnh vận chuyển
+Shopping Cart Price Rule,Luật giá mua hàng
+Shopping Cart Price Rules,Các luật giá mua hàng
+Special price,Giá đặc biệt
+Start at: %s,Bắt đầu: %s
+Status,Trạng thái
+Stop further rules processing,Dừng xử lý các luật tiếp theo
+Subtotal,Tổng số
+The page you are trying to save no longer exists,Trang bạn đang lưu không còn tồn tại
+This rule no longer exists,Luật không còn tồn tại
+To Date,Đến ngày
+To Fixed Amount,Đến số lượng cố định
+To Fixed Value,Đến giá trị cố định
+To Percentage,Đến phần trăm
+To Percentage of the original price,Đến phần trăm của giá gốc
+Total Items Quantity,Tổng số lượng các sản phẩm
+Total Weight,Tổng khối lượng
+Unable to find a page to delete,Không thể tìm thấy gói để xóa
+Update prices using the following information,Cập nhật giá sử dụng các thông tin sau
+Update product's %s %s: %s,Cập nhật sản phẩm %s %s: %s
+Update the Product,Cập nhật sản phẩm
+Uses per coupon,Sử dụng cho một coupon
+Uses per customer,Sử dụng cho một khách hàng
+Yes,Có
+Subtotal,Tổng số

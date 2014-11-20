@@ -1,0 +1,79 @@
+for more information or email us at,để biết thêm thông tin hoặc gửi email cho chúng tôi tại
+# of Items (and above),# của Sản phẩm (và trên)
+# of Items vs. Destination,# của Sản phẩm và điểm đến
+Allow Shipping to multiple addresses,Cho phép gửi hàng tới nhiều địa chỉ
+Calculate Handling Fee,Tính toán chi phí đóng gói
+Carrier:,Người gửi:
+City,Thành phố
+Close Window,Đóng cửa sổ
+Condition,Điều kiện
+Country,Quốc gia
+Date,Ngày
+Delivered on:,Đã chuyển vào:
+Delivered to:,Chuyển tới:
+Description,Mô tả
+Displayed Error Message,Thông báo lỗi đã hiển thị
+"Duplicate Row #%s (Country ""%s"", Region/State ""%s"", Zip ""%s"" and Value ""%s"")","Trùng dòng #%s (Quốc gia ""%s"", Vùng ""%s"", Zip ""%s"" và giá trị ""%s"")"
+Enabled,Bật
+Error:,Lỗi:
+Export,Xuất
+Fixed,Cố định
+Flat Rate,Cùng giá
+Free Shipping,Chuyển hàng miễn phí
+Handling Fee,Phí đóng gói
+Import,Nhập
+Info:,Thông tin:
+"Invalid %s ""%s"" in the Row #%s","Không chính xác %s ""%s"" trong dòng #%s"
+"Invalid Country ""%s"" in the Row #%s","Quốc gia không chính xác ""%s"" trong dòng #%s"
+"Invalid Region/State ""%s"" in the Row #%s","Vùng không chính xác ""%s"" trong dòng #%s"
+"Invalid Shipping Price ""%s"" in the Row #%s","Giá vận chuyển không chính xác ""%s"" trong dòng #%s"
+Invalid Table Rate code for type %s: %s,Mã bảng giá không đúng cho loại %s: %s
+Invalid Table Rate code type: %s,Mã bảng giá không đúng cho loại: %s
+Invalid Table Rates File Format,Định dạng file bảng giá không chính xác
+Local Time,Giờ địa phương
+Location,Địa điểm
+Maximum qty allowed for Shipping to multiple addresses,Số lượng tối đa được phép cho vận chuyển tới nhiều địa chỉ
+Method name,Tên phương thức
+Minimum order amount,Số lượng đặt hàng tối thiểu
+"N/A","N/A"
+None,Không có
+Options,Các tùy chọn
+Order Subtotal (and above),Tổng số đơn hàng (và lớn hơn)
+"Origin","Origin"
+Per Order,Trên đơn hàng
+Per Package,Trên gói hàng
+Percent,Phần trăm
+Price,Giá
+Price vs. Destination,Giá vs. điểm đến
+"Region/State","Region/State"
+Service Type:,Loại dịch vụ:
+Ship to Specific countries,Chuyển tới các quốc gia cố định
+Ship to applicable countries,Chuyển tới các quốc gia phù hợp
+Shipment #,Vận chuyển #
+Shipped or billed on:,Được chuyển hoặc ghi hóa đơn vào:
+Shipping Methods,Phương thức vận chuyển
+Shipping Methods Section,Phương thức vận chuyển Section
+Shipping Settings,Thiết lập vận chuyển
+Shipping Settings Section,Thiết lập vận chuyển Section
+Show method if not applicable,Hiển thị phương thức nếu không phù hợp
+Signed by:,Ký bởi:
+Sort order,Thứ tự sắp xếp
+Status:,Trạng thái:
+"Store Pickup","Store Pickup"
+Table rates,Bảng giá
+The shipping module is not available for selected delivery country,Module vận chuyển không sử dụng được cho quốc gia vận chuyển được lựa chọn
+There is no tracking available for this shipment.,Không có số theo dõi cho vận chuyển này.
+There is no tracking available.,Không có số theo dõi.
+"This shipping method is currently unavailable. If you would like to ship using this shipping method, please contact us.",Phương thức vận chuyển này hiện tại không sử dụng được. Nếu bạn muốn sử dụng hình thức vận chuyển này vui lòng liên hệ với chúng tôi.
+Title,Tiêu đề
+Track:,Theo dõi:
+Tracking Number:,Số theo dõi:
+Tracking information is currently not available. Please,Thông tin theo dõi hiện tại không sử dụng được. Vui lòng thử lại sau
+Tracking information is currently unavailable.,Thông tin theo dõi hiện không không có.
+Type,Loại
+Weight (and above),Khối lượng (và lớn hơn)
+Weight vs. Destination,Khối lượng vs. điểm đến
+Weight:,Khối lượng:
+"ZIP/Postal Code","ZIP/Postal Code"
+contact us,liên hệ với chúng tôi
+

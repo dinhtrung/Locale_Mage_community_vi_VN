@@ -1,0 +1,26 @@
+//Được dịch bởi Nguyễn Thái Sơn, STC
+//Email: sonntstc@gmail.com. Website: http://sonntstc.vze.com
+//Mã số phát triển: STCMeCOM1 (STC Magento eCommerce version 2012.1.0) dựa trên phiên bản Magento Community 1.7
+
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Chú ý</strong>: Captcha nhạy loại chữ."
+"After number of attempts to login","Sau một số cố gắng đăng nhập"
+"Always","Luôn luôn"
+"CAPTCHA","CAPTCHA"
+"CAPTCHA Timeout (minutes)","Thời gian chờ CAPTCHA (phút)"
+"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen","CAPTCHA cho mẫu ""Tạo thành viên mới"" và ""Quên mật khẩu"" luôn được kích hoạt nếu được chọn"
+"Case Sensitive","Nhạy loại chứ"
+"Displaying Mode","Chế độ hiển thị"
+"Enable CAPTCHA in Admin","Kích hoạt CAPTCHA trong quản trị"
+"Enable CAPTCHA on Frontend","Kích hoạt CAPTCHA trên giao diện khách hàng"
+"Font","Phông chữ"
+"Forms","Các mẫu"
+"If 0 is specified, CAPTCHA on the Login form will be always available.","Nếu 0 được xác định, luôn luôn nhận được CAPTCHA trên mẫu Đăng nhập."
+"Incorrect CAPTCHA.","Sai CAPTCHA."
+"Number of Symbols","Số các biểu tượng"
+"Number of Unsuccessful Attempts to Login","Số lần đăng nhập không thành công"
+"Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Xin xác định nhiều nhất 8 biểu tượng. Giới hạn cho phép (ví dụ: 3-5)"
+"Please type the letters below","Xin nhập các chữ dưới đây"
+"Please type the letters from the image:","Xin nhập các chữ từ hình ảnh:"
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Xin chỉ sử dụng các chữ (a-z hoặc A-Z) hoặc các số (0-9) trong trường này. Không cho phép sử dụng các khoảng trống hoặc các ký tự khác.<br />Các ký tự nhìn tương tự (ví dụ: ""i"", ""l"", ""1"") sẽ giảm cơ hội nhận biết chính xác của khách hàng."
+"Reload captcha","Tải lại captcha"
+"Symbols Used in CAPTCHA","Các biểu tượng được sử dụng trong CAPTCHA"
