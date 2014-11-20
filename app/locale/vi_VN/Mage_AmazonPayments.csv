@@ -22,8 +22,8 @@
 "Amazon Simple Pay service has confirmed payment refund. Credit memo %s was automatically created after confirmation.",@TODO
 "Amazon Simple Pay service has confirmed payment refund. Credit memo was created automatically.","@FIXME: Amazon dịch vụ đơn giản Pay đã xác nhận hoàn trả thanh toán. Bản ghi nhớ tín dụng đã được tạo ra tự động."
 "Amazon Simple Pay service has confirmed payment refund. The credit memo was created automatically.","@FIXME: Amazon dịch vụ đơn giản Pay đã xác nhận hoàn trả thanh toán. Các bản ghi nhớ tín dụng đã được tạo ra tự động."
-"Amazon Simple Pay service has confirmed refund.","@FIXME: Amazon dịch vụ đơn giản Pay đã xác nhận hoàn trả."
 "Amazon Simple Pay service has confirmed refunded credit memo %s. The credit memo was processed automatically.",@TODO
+"Amazon Simple Pay service has confirmed refund.","@FIXME: Amazon dịch vụ đơn giản Pay đã xác nhận hoàn trả."
 "Amazon Simple Pay service has confirmed refund. The credit memo was processed automatically.","@FIXME: Amazon dịch vụ đơn giản Pay đã xác nhận hoàn trả. Các bản ghi nhớ tín dụng đã được xử lý tự động."
 "Amazon Simple Pay service is not available. Payment was not processed.","@FIXME: Amazon Simple dịch vụ phải trả tiền là không có sẵn. Thanh toán không được xử lý."
 "Amazon Simple Pay service payment confirmation has failed.","@FIXME: Amazon xác nhận thanh toán dịch vụ phải trả tiền đơn giản đã thất bại."
@@ -73,8 +73,8 @@ Enable,"@FIXME: cho phép"
 "Report Error to Email","@FIXME: Báo cáo lỗi đến Email"
 "Response body is not a valid FPS response.","@FIXME: Phản ứng cơ thể không phải là một phản ứng FPS hợp lệ."
 Sandbox,"@FIXME: hộp đựng cát"
-"Secret Key ID","@FIXME: Bí mật khóa ID"
 "Secret Key","@FIXME: bí mật chính"
+"Secret Key ID","@FIXME: Bí mật khóa ID"
 " Select Shipping Method","@FIXME: Chọn Phương thức Giao hàng"
 "Shipment was created with Checkout by Amazon.","@FIXME: Lô hàng đã được tạo ra với Checkout bằng Amazon."
 SUCCESS,"@FIXME: THÀNH CÔNG"
@@ -82,7 +82,7 @@ SUCCESS,"@FIXME: THÀNH CÔNG"
 "The customer has canceled payment and successfully returned from Amazon Simple Pay site","@FIXME: Các khách hàng đã bị hủy bỏ và thanh toán thành công trở về từ Amazon trang web phải trả tiền đơn giản"
 "The customer has successfully returned from Amazon Simple Pay site","@FIXME: Các khách hàng đã thành công trở về từ Amazon trang web phải trả tiền đơn giản"
 "The invoice was created (online capture). Waiting for capture confirmation from Amazon Simple Pay service.","@FIXME: Hóa đơn đã được tạo ra ( chụp trực tuyến ). Chờ đợi để chụp xác nhận từ Amazon dịch vụ phải trả tiền đơn giản."
-"The invoice was not refunded. Amazon Simple Pay service error: [%s] %s",@TODO
+"The invoice was not refunded. Amazon Simple Pay service error: [%s] %s","Không thể hoàn trả Hóa đơn này. Lỗi trả về từ vụ Amazon Simple: [%s] %s"
 "The item specified in callback request XML was not found in quote.","@FIXME: Các mặt hàng quy định tại yêu cầu gọi lại XML không được tìm thấy trong báo."
 "The order was not canceled. Amazon Simple Pay service error: [%s] %s",@TODO
 "The order was not captured. Amazon Simple Pay service error: [%s] %s",@TODO

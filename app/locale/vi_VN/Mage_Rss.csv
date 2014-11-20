@@ -22,8 +22,8 @@ From:,"@FIXME: từ:"
 Message:,"@FIXME: Thông báo:"
 "Miscellaneous Feeds","@FIXME: linh tinh Feeds"
 "New Orders","@FIXME: Đơn đặt hàng mới"
-"New Products from %s",@TODO
 "New Products","@FIXME: Sản phẩm mới"
+"New Products from %s",@TODO
 "Notified Date: %s<br/>",@TODO
 "Order #%s created at %s","@FIXME: trật tự"
 "Order # %s Notification(s)","@FIXME: trật tự"
@@ -34,8 +34,8 @@ Message:,"@FIXME: Thông báo:"
 "Purchased From: %s",@TODO
 "Review: %s <br/>",@TODO
 "Rss Config","@FIXME: Rss Config"
-"RSS Feeds List","@FIXME: RSS Feeds Danh sách"
 "RSS Feeds","@FIXME: RSS Feeds"
+"RSS Feeds List","@FIXME: RSS Feeds Danh sách"
 "Rss Feeds Section","@FIXME: RSS Feeds Mục"
 "RSS Feeds Section","@FIXME: RSS Feeds Mục"
 RSS,"@FIXME: RSS"
@@ -56,10 +56,10 @@ Subtotal,"@FIXME: Subtotal"
 "Summary of review: %s <br/>",@TODO
 "Tags Products","@FIXME: tags Sản phẩm"
 Tax,"@FIXME: thuế"
-"There are no Rss Feeds.","@FIXME: Không có Rss Feeds."
 "There are no Rss Feeds","@FIXME: Không có Feeds Rss"
+"There are no Rss Feeds.","@FIXME: Không có Rss Feeds."
+To:,"@FIXME: để:"
 "Top Level Category","@FIXME: Top Level mục"
 "Total Products: %s",@TODO
 "Total: %s<br/>",@TODO
-To:,"@FIXME: để:"
 Wishlist,"@FIXME: Sản phẩm yêu thích"

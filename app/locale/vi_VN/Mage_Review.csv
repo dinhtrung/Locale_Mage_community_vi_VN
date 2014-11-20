@@ -7,8 +7,8 @@
 "Add Your Review","@FIXME: Thêm nhận xét của bạn"
 Administrator,"@FIXME: quản trị viên"
 "<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>",@TODO
-"Allow guests to write reviews","@FIXME: Cho phép khách hàng để viết đánh giá"
 "Allow Guests to Write Reviews","@FIXME: Cho phép khách để Viết Nhận xét"
+"Allow guests to write reviews","@FIXME: Cho phép khách hàng để viết đánh giá"
 "All Reviews","@FIXME: Tất cả Nhận xét"
 "All reviews of customer `%s`",@TODO
 "All Reviews of Customer `%s`",@TODO
@@ -16,8 +16,8 @@ Administrator,"@FIXME: quản trị viên"
 Approved,"@FIXME: phê duyệt"
 "Are you sure?","@FIXME: Bạn có chắc chắn?"
 "Are you sure you want to do this?","@FIXME: Bạn có chắc chắn muốn làm điều này?"
-"Average Customer Rating:","@FIXME: Trung bình khách hàng Đánh giá:"
 "Average Customer Rating","@FIXME: Đánh giá trung bình khách hàng"
+"Average Customer Rating:","@FIXME: Trung bình khách hàng Đánh giá:"
 Back,"@FIXME: trở lại"
 "Back to Main Product Info","@FIXME: Quay lại thông tin sản phẩm"
 "Back to My Reviews","@FIXME: Trở lại Đánh giá Của tôi"
@@ -42,9 +42,9 @@ ID,"@FIXME: ID"
 "Manage Ratings","@FIXME: quản lý Ratings"
 "My Product Reviews","@FIXME: My Nhận xét sản phẩm"
 "My Recent Reviews","@FIXME: Nhận xét gần đây của tôi"
+Name,"@FIXME: tên"
 "Name in Store","@FIXME: Đặt tên trong cửa hàng"
 "Name In Store","@FIXME: Tên Trong cửa hàng"
-Name,"@FIXME: tên"
 "New Review","@FIXME: Xem lại mới"
 "Nickname can\'t be empty",@TODO
 Nickname,"@FIXME: biệt danh"
@@ -52,17 +52,17 @@ Nickname,"@FIXME: biệt danh"
 "Only registered users can write reviews. Please, <a href=""%s"">log in</a> or <a href=""%s"">register</a>",@TODO
 OR,"@FIXME: HOẶC"
 Pending,"@FIXME: chưa giải quyết"
-"Pending reviews of customer `%s`",@TODO
-"Pending Reviews of Customer `%s`",@TODO
 "Pending reviews","@FIXME: Trong khi chờ đánh giá"
 "Pending Reviews","@FIXME: Trong khi chờ xét"
+"Pending reviews of customer `%s`",@TODO
+"Pending Reviews of Customer `%s`",@TODO
 "Please select a product","@FIXME: Vui lòng chọn sản phẩm"
 "Please select one of each of the ratings above","@FIXME: Hãy chọn một trong mỗi xếp hạng trên"
 "Posted By","@FIXME: Posted By"
 "(Posted on %s)",@TODO
 Price,"@FIXME: giá"
-"Product Name","@FIXME: Tên sản phẩm"
 Product,"@FIXME: sản phẩm"
+"Product Name","@FIXME: Tên sản phẩm"
 "Product Rating:","@FIXME: Đánh giá sản phẩm:"
 "Product Rating","@FIXME: Đánh giá sản phẩm"
 "Product Reviews","@FIXME: Nhận xét sản phẩm"
@@ -75,8 +75,8 @@ Rating:,"@FIXME: Đánh giá:"
 "Review by %s",@TODO
 "Review can\'t be empty",@TODO
 "Review Details","@FIXME: Xem xét chi tiết"
-"Review Form Fields Before","@FIXME: Xem lại Form Fields Trước"
 Review,"@FIXME: xem lại"
+"Review Form Fields Before","@FIXME: Xem lại Form Fields Trước"
 "Reviews and Ratings","@FIXME: Đánh giá và xếp hạng"
 "Review (submitted on %s):",@TODO
 "Review summary can\'t be empty",@TODO
@@ -93,8 +93,8 @@ Title,"@FIXME: Tiêu đề"
 Type,"@FIXME: kiểu"
 "Unable to post review. Please, try again later.","@FIXME: Không thể đăng đánh giá. Xin vui lòng thử lại sau."
 "Unable to post the review.","@FIXME: Không thể để viết đánh giá."
-"Update status","@FIXME: Cập nhật trạng thái"
 "Update Status","@FIXME: Cập nhật Status"
+"Update status","@FIXME: Cập nhật trạng thái"
 "View All Reviews","@FIXME: Xem Tất cả Nhận xét"
 "View Details","@FIXME: Xem chi tiết"
 "Visible In","@FIXME: Trong Visible"

@@ -14,8 +14,8 @@
 "Destination folder ""%s"" is not a writeable",@TODO
 "Destination folder ""%s"" is not writable.",@TODO
 Done,"@FIXME: làm xong"
-"Dry run set, stopping execution.","@FIXME: Tập chạy khô, dừng thực hiện."
 "Dry run set, stopping execution","@FIXME: Chạy bộ khô, dừng thực hiện"
+"Dry run set, stopping execution.","@FIXME: Tập chạy khô, dừng thực hiện."
 "Error field mapping! Fields list for mapping is not defined","@FIXME: Lỗi lĩnh vực lập bản đồ! Fields danh sách để lập bản đồ không được định nghĩa"
 "Error in field mapping: field list for mapping is not defined.","@FIXME: Lỗi trong lập bản đồ trường: danh sách các trường để lập bản đồ không được xác định."
 "Error occured during file opening: ""%s""",@TODO
