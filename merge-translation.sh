@@ -1,25 +1,27 @@
 #!/bin/bash
+from=$1;
+if [ ! -e $from ]; then
+  echo "Usage: ./merge-translation [from-path]";
+  exit;
+fi
 
-for a in $(ls ../en_US/*.csv);
+enUS=`ls app/locale/en_US/*.csv`;
+viVN="app/locale/vi_VN"
+echo "Prepare to merge translation from $from to $viVN";
+for a in $enUS;
 do
   i=$(basename $a);
+  dest="$viVN/$i";
   if [ ! -e $i ]; then
-    echo "Create $i...";
-    touch $i;
+    echo "Create $dest...";
+    touch $dest;
   fi
-  old=Old$i;
-  if [ -e "$old" ]; then
-    echo "Found $old in current dir";
-    cat $old >> $i;
-    rm -f $old;
+  fromFile=$from/$i;
+  if [ -e "$fromFile" ]; then
+    echo "Gonna append $from to the end of $dest";
+    cat $fromFile >> $dest;
   fi
-  dep=Deprecated$i;
-  if [ -e "$dep" ]; then
-    echo "Found $dep in current dir";
-    cat $dep >> $i;
-    rm -f $dep;
-  fi
-  j=tmp$i;
-  cat $i | sort | uniq >> $j;
-  mv -f $j $i;
+  echo "Filter out $dest to $i";
+  cat $dest | sort | uniq >> $i;
+  mv -f $i $dest;
 done;
