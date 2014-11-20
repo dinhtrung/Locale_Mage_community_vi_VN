@@ -1,65 +1,65 @@
-"Cannot retrieve the wishlist","Cannot retrieve the wishlist"
-"Catalog","Catalog"
-"Category Feeds","Category Feeds"
-"click <a href=""%s"">here</a> to view the review","click <a href=""%s"">here</a> to view the review"
-"Click for price","Click for price"
-"Comment: %s<br/>","Comment: %s<br/>"
-"Coupons/Discounts","Coupons/Discounts"
-"Current Status: %s<br/>","Current Status: %s<br/>"
-"Customer Name: %s","Customer Name: %s"
-"Customer Order Status Notification","Customer Order Status Notification"
-"Details for %s #%s","Details for %s #%s"
-"Discount ","Discount "
-"Discount","Discount"
-"Discount (%s)","Discount (%s)"
-"Enable RSS","Enable RSS"
-"Error in processing xml. %s","Error in processing xml. %s"
-"From:","From:"
-"Get Feed","Get Feed"
-"Gift Message","Gift Message"
-"Grand Total","Grand Total"
-"Low Stock Products","Low Stock Products"
-"Message:","Message:"
-"Miscellaneous Feeds","Miscellaneous Feeds"
-"New Orders","New Orders"
-"New Products from %s","New Products from %s"
-"New Products","New Products"
-"Notified Date: %s<br/>","Notified Date: %s<br/>"
-"Order #%s created at %s","Order #%s created at %s"
-"Order # %s Notification(s)","Order # %s Notification(s)"
-"Pending product review(s)","Pending product review(s)"
-"Product: <a href=""%s"">%s</a> <br/>","Product: <a href=""%s"">%s</a> <br/>"
-"Product: ""%s"" review By: %s","Product: ""%s"" review By: %s"
-"Products tagged with %s","Products tagged with %s"
-"Purchased From: %s","Purchased From: %s"
-"Review: %s <br/>","Review: %s <br/>"
-"Rss Config","Rss Config"
-"RSS Feeds List","RSS Feeds List"
-"RSS Feeds","RSS Feeds"
-"Rss Feeds Section","Rss Feeds Section"
-"RSS Feeds Section","RSS Feeds Section"
-"RSS","RSS"
-"RSS testing","RSS testing"
-"%s - Discounts and Coupons","%s - Discounts and Coupons"
-"%s has reached a quantity of %s.","%s has reached a quantity of %s."
-"Shipping &amp; Handling","Shipping &amp; Handling"
-"Shipping & Handling","Shipping & Handling"
-"Special/Discount Products","Special/Discount Products"
-"Special Products","Special Products"
-"%s RSS Feed","%s RSS Feed"
-"%s - Special Discounts","%s - Special Discounts"
-"%s - Special Products","%s - Special Products"
-"%s's Wishlist","%s's Wishlist"
-"%s\'s Wishlist","%s\'s Wishlist"
-"Store: %s <br/>","Store: %s <br/>"
-"Subtotal","Subtotal"
-"Summary of review: %s <br/>","Summary of review: %s <br/>"
-"Tags Products","Tags Products"
-"Tax","Tax"
-"There are no Rss Feeds.","There are no Rss Feeds."
-"There are no Rss Feeds","There are no Rss Feeds"
-"Top Level Category","Top Level Category"
-"Total Products: %s","Total Products: %s"
-"Total: %s<br/>","Total: %s<br/>"
-"To:","To:"
-"Wishlist","Wishlist"
+"Cannot retrieve the wishlist","@FIXME: Không thể lấy danh sách mong ước"
+Catalog,"@FIXME: mục lục"
+"Category Feeds","@FIXME: Danh mục Feeds"
+"click <a href=""%s"">here</a> to view the review",@TODO
+"Click for price","@FIXME: Nhấn vào đây để giá"
+"Comment: %s<br/>",@TODO
+Coupons/Discounts,"@FIXME: Phiếu giảm giá / giảm giá"
+"Current Status: %s<br/>",@TODO
+"Customer Name: %s",@TODO
+"Customer Order Status Notification","@FIXME: Khách hàng theo thứ tự thông báo Status"
+"Details for %s #%s",@TODO
+"Discount ","@FIXME: giảm giá"
+Discount,"@FIXME: giảm giá"
+"Discount (%s)",@TODO
+"Enable RSS","@FIXME: Kích hoạt tính năng RSS"
+"Error in processing xml. %s",@TODO
+From:,"@FIXME: từ:"
+"Get Feed","@FIXME: Nhận nguồn cấp dữ liệu"
+"Gift Message","@FIXME: tin nhắn quà tặng"
+"Grand Total","@FIXME: Tổng cộng"
+"Low Stock Products","@FIXME: Sản phẩm chứng khoán thấp"
+Message:,"@FIXME: Thông báo:"
+"Miscellaneous Feeds","@FIXME: linh tinh Feeds"
+"New Orders","@FIXME: Đơn đặt hàng mới"
+"New Products from %s",@TODO
+"New Products","@FIXME: Sản phẩm mới"
+"Notified Date: %s<br/>",@TODO
+"Order #%s created at %s","@FIXME: trật tự"
+"Order # %s Notification(s)","@FIXME: trật tự"
+"Pending product review(s)","@FIXME: Đánh giá sản phẩm cấp phát (s)"
+"Product: <a href=""%s"">%s</a> <br/>",@TODO
+"Product: ""%s"" review By: %s",@TODO
+"Products tagged with %s",@TODO
+"Purchased From: %s",@TODO
+"Review: %s <br/>",@TODO
+"Rss Config","@FIXME: Rss Config"
+"RSS Feeds List","@FIXME: RSS Feeds Danh sách"
+"RSS Feeds","@FIXME: RSS Feeds"
+"Rss Feeds Section","@FIXME: RSS Feeds Mục"
+"RSS Feeds Section","@FIXME: RSS Feeds Mục"
+RSS,"@FIXME: RSS"
+"RSS testing","@FIXME: RSS thử nghiệm"
+"%s - Discounts and Coupons",@TODO
+"%s has reached a quantity of %s.",@TODO
+"Shipping &amp; Handling","@FIXME: Vận Chuyển \u0026 amp; xử lý"
+"Shipping & Handling","@FIXME: Vận chuyển và xử lý"
+"Special/Discount Products","@FIXME: Đặc biệt / Sản phẩm giảm giá"
+"Special Products","@FIXME: Sản phẩm đặc biệt"
+"%s RSS Feed",@TODO
+"%s - Special Discounts",@TODO
+"%s - Special Products",@TODO
+"%s's Wishlist",@TODO
+"%s\'s Wishlist",@TODO
+"Store: %s <br/>",@TODO
+Subtotal,"@FIXME: Subtotal"
+"Summary of review: %s <br/>",@TODO
+"Tags Products","@FIXME: tags Sản phẩm"
+Tax,"@FIXME: thuế"
+"There are no Rss Feeds.","@FIXME: Không có Rss Feeds."
+"There are no Rss Feeds","@FIXME: Không có Feeds Rss"
+"Top Level Category","@FIXME: Top Level mục"
+"Total Products: %s",@TODO
+"Total: %s<br/>",@TODO
+To:,"@FIXME: để:"
+Wishlist,"@FIXME: Sản phẩm yêu thích"
