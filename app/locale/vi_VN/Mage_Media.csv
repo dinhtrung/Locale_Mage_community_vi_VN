@@ -1,3 +1,5 @@
-"An error occurred while creating the image.","An error occurred while creating the image."
-"The image does not exist or is invalid.","The image does not exist or is invalid."
-"This content requires last version of Adobe Flash Player. <a href=""%s"">Get Flash</a>","This content requires last version of Adobe Flash Player. <a href=""%s"">Get Flash</a>"
+"An error occurred while creating the image.","@FIXME: Đã xảy ra lỗi trong khi tạo ra hình ảnh."
+"Error while creating image","Bị lỗi khi tạo ảnh"
+"Image not exists or invalid","Ảnh không tồn tại hoặc không đúng"
+"The image does not exist or is invalid.","@FIXME: Các hình ảnh không tồn tại hoặc không hợp lệ."
+"This content requires last version of Adobe Flash Player. <a href=""%s"">Get Flash</a>","Nội dung này cần phiên bản trước của Adobe Flash Player. <a href=""%s"">Get Flash</a>"
