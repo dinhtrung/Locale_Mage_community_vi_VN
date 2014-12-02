@@ -16,7 +16,7 @@
 "Column names have duplicates","@FIXME: Tên cột có bản sao"
 "Column names is empty or is not an array","@FIXME: Tên cột là trống rỗng, hoặc không phải là một mảng"
 "Column names: ""%s"" are invalid","@FIXME: Tên cột:""% s""không hợp lệ"
-CSV,"@FIXME: CSV"
+
 Customers,"@FIXME: Khách hàng"
 "Data is invalid or file is not uploaded","@FIXME: Dữ liệu không hợp lệ hoặc tập tin không được tải lên"
 "Delete Entities","@FIXME: xóa Entities"
@@ -42,9 +42,9 @@ Export,"@FIXME: xuất khẩu"
 "File does not contain data.","@FIXME: Tập tin không chứa dữ liệu."
 "File does not contain data. Please upload another one","@FIXME: Tập tin không chứa dữ liệu.  Hãy tải lên nhau"
 "File format is unknown","@FIXME: Định dạng tập tin không rõ"
-"File is partially valid, but import is not possible","@FIXME: Tập tin có giá trị một phần, nhưng nhập khẩu là không thể"
+"File is partially val
 "File is totally invalid. Please fix errors and re-upload file","@FIXME: Tập tin là hoàn toàn hợp lệ.  Xin hãy sửa lỗi và các tập tin tải lên lại"
-"File is valid, but import is not possible","@FIXME: Tập tin là hợp lệ, nhưng nhập khẩu là không thể"
+"File is val
 "File is valid! To start import process press ""Import"" button","@FIXME: File là hợp lệ!  Để bắt đầu quá trình nhập khẩu bấm nút""Nhập"""
 "File was not uploaded","@FIXME: Tập tin không được tải lên"
 Filter,"@FIXME: Lọc"

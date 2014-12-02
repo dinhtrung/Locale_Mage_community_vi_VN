@@ -392,7 +392,7 @@ UPS,"@FIXME: UPS"
 "UPS Worldwide Saver","@FIXME: UPS Worldwide Saver"
 "Used only when ""Additional Protection Value"" is set to ""Configuration"". Can contain only numeric amount.","@FIXME: Chỉ được sử dụng khi""Additional Protection Value""được thiết lập để""Cấu hình"".  Có thể chỉ chứa lượng số."
 "Used only when 'Additional Protection Value' is set to 'Configuration'. Can contain only numeric amount.","@FIXME: Sử dụng chỉ khi khác"
-UserId,"@FIXME: UserId"
+User
 "User ID","@FIXME: User ID"
 USPS,"@FIXME: USPS"
 "USPS GXG Envelopes","@FIXME: USPS GXG Phong bì"
